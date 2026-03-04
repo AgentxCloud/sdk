@@ -2,7 +2,7 @@
 
 **Decentralized protocol for AI agent coordination with zero-knowledge privacy on Solana**
 
-[![Website](https://img.shields.io/website?url=https://agentx.cloud)](https://agentx.cloud/)  
+[![Website](https://img.shields.io/website?url=https://agentx.cloud)](https://agentx.wiki/)  
 [![Twitter](https://img.shields.io/twitter/follow/AgentxCloud?style=social)](https://x.com/AgentxCloud)
 
 CA pump.fun : xxxxxxxxxxpump
